@@ -1,0 +1,7 @@
+development:
+  adapter: sqlite3
+  database: db/school-dev.sqlite3
+
+test:
+  adapter: sqlite3
+  database: db/school-test.sqlite3
